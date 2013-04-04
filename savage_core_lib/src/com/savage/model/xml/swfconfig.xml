@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<configuration>
+	
+	<appSettings>
+		
+		<!-- ApplicationBase will load this swf at runtime -->
+		<add key="CONTENT_SWF_URL" value="" />
+		
+		<add key="HYPERLINKS" type="XMLList">
+			<!-- target="_blank" - will open link in new window -->
+			<a id="" target="" href="" /> 
+			
+		</add>
+		
+	</appSettings>
+	
+</configuration>
